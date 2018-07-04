@@ -1,0 +1,28 @@
+{
+  "friends" : [
+    {
+      "fullName" : "James Brown",
+      "dob" : "1980"
+    },
+    {
+      "fullName" : "John White",
+      "dob" : "1988"
+    },
+    {
+      "fullName" : "Brad Pitt",
+      "dob" : "1970"
+    },
+{
+      "fullName" : "Frank Lampard",
+      "dob" : "1965"
+    },
+    {
+      "fullName" : "John Terry",
+      "dob" : "1985"
+    },
+    {
+      "fullName" : "Michael Wood",
+      "dob" : "1993"
+    }
+ ]
+}
